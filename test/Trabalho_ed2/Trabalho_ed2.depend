@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1521592769 source:/home/leonardo/Desktop/text/main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1522199806 source:/home/leonardo/Desktop/Trabalho_ed2/main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<string>
+	"ListaDupla.h"
+
+1522183627 source:/home/leonardo/Desktop/Trabalho_ed2/ListaDupla.cpp
+	<iostream>
+	<cstdlib>
+	"ListaDupla.h"
+
+1522183722 /home/leonardo/Desktop/Trabalho_ed2/ListaDupla.h
+	"NoDuplo.h"
+
+1522193280 /home/leonardo/Desktop/Trabalho_ed2/NoDuplo.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+
