@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1523486856 source:c:\users\leona\desktop\trabalho_ed2\listadupla.cpp
+	<iostream>
+	<cstdlib>
+	"ListaDupla.h"
+
+1523484112 c:\users\leona\desktop\trabalho_ed2\listadupla.h
+	"NoDuplo.h"
+
+1523484102 c:\users\leona\desktop\trabalho_ed2\noduplo.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1523495704 source:c:\users\leona\desktop\trabalho_ed2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<fstream>
+	<string.h>
+	<string>
+	"ListaDupla.h"
+	"Hash.h"
+
+1523495559 source:c:\users\leona\desktop\trabalho_ed2\hash.cpp
+	"Hash.h"
+	<iostream>
+
+1523495414 c:\users\leona\desktop\trabalho_ed2\hash.h
+
